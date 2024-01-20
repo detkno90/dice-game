@@ -39,3 +39,13 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.button{
+    display: inline-block;
+    color: black;
+    width: 200px;
+    background-color: #45c398;
+    padding: 20px;
+    border-radius: 80px;
+    text-decoration: none;
+}

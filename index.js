@@ -14,3 +14,6 @@ if (randomNumber1 > randomNumber2) {
     document.querySelector("h1").innerHTML = "Its A Tie";
 }
 
+function refresh(){
+    window.location.reload("Refresh")
+  }
